@@ -1,0 +1,21 @@
+{
+  "name": "ejerciciosmath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/KevinSoto07/EjerciciosMATH--PE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KevinSoto07/EjerciciosMATH--PE/issues"
+  },
+  "homepage": "https://github.com/KevinSoto07/EjerciciosMATH--PE#readme"
+}
